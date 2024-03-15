@@ -7,6 +7,11 @@ sdk: gradio
 sdk_version: 4.21.0
 app_file: app.py
 pinned: false
+
+To check bot please go to the links given below:
+                1) https://huggingface.co/spaces/Karthik0406143/bot
+              
+
 ** jupiter Notebook** to run (or) create interactive notebook documents that can contain live code,
                         equations, visualizations, media and other computational outputs. 
 **Open AI:** An AI-based chat service powered by Open AI's language model.
