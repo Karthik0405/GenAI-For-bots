@@ -10,7 +10,7 @@ pinned: false
 
 To check bot please go to the links given below:
                 1) https://huggingface.co/spaces/Karthik0406143/genAI
-                2)geaichat.ccbp.tech
+                2)https://geaichat.ccbp.tech
               
 **Sample Ideas**: GEN AI Chatbot for blinds
 **Problem Statement**: The blind pepole can't use the chat gpt as normal people this helps to listen the responces as the voice which is cloned
