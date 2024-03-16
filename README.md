@@ -12,8 +12,11 @@ To check bot please go to the links given below:
                 1) https://huggingface.co/spaces/Karthik0406143/genAI
                 2)geaichat.ccbp.tech
               
-
-** jupiter Notebook** to run (or) create interactive notebook documents that can contain live code,
+**Sample Ideas**: GEN AI Chatbot for blinds
+**Problem Statement**: The blind pepole can't use the chat gpt as normal people this helps to listen the responces as the voice which is cloned
+Solution: Develop a chatbot integrated into messaging platforms like OPEN AI and for voice we use platHT by using tokens and by authorization of the api keys and bot is developed by Hugging Face and by using src for embedded space for html and css and js
+Tech Stack: The tech stacks and work flow is mentioned below:
+**jupiter Notebook** to run (or) create interactive notebook documents that can contain live code,
                         equations, visualizations, media and other computational outputs. 
 **Open AI:** An AI-based chat service powered by Open AI's language model.
     - **Steps for creating Open AI Account:**
@@ -34,7 +37,7 @@ To check bot please go to the links given below:
         - Since you don’t have an account, click on the Sign Up button
         - Click on Sign Up with Google
         - Account will be created
-        - **How to Clone a Voice in PlayHT:**
+**How to Clone a Voice in PlayHT:**
             
             Here's a general outline of the steps involved in voice cloning in PlayHT:
             
@@ -46,7 +49,7 @@ To check bot please go to the links given below:
             - Click on Create
             - Your voice will be cloned
 **HuggingFace:** An organization known for its popular library providing easy access to pre-trained models and natural language processing tools.
-    - **Steps for creating HuggingFace Account:**
+**Steps for creating HuggingFace Account:**
         
         To create a Hugging Face account, you can follow these general steps:
         
@@ -68,12 +71,9 @@ To check bot please go to the links given below:
             - Checkout to **Variables and secrets** section
             - Create New Secrets
             - To access, we can use the below format
-- **LangChain:** A library for building and training language models.
-    
-    Open: 
-    
-
-- **Gradio:** An open-source library for building and sharing customizable web interfaces for machine learning models.
+**LangChain:** A library for building and training language models.
+   
+**Gradio:** An open-source library for building and sharing customizable web interfaces for machine learning models.
     
     Open: https://www.gradio.app/
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
