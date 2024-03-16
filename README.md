@@ -10,6 +10,7 @@ pinned: false
 
 To check bot please go to the links given below:
                 1) https://huggingface.co/spaces/Karthik0406143/genAI
+                2)geaichat.ccbp.tech
               
 
 ** jupiter Notebook** to run (or) create interactive notebook documents that can contain live code,
