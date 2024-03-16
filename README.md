@@ -9,7 +9,7 @@ app_file: app.py
 pinned: false
 
 To check bot please go to the links given below:
-                1) https://huggingface.co/spaces/Karthik0406143/bots
+                1) https://huggingface.co/spaces/Karthik0406143/genAI
               
 
 ** jupiter Notebook** to run (or) create interactive notebook documents that can contain live code,
