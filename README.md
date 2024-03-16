@@ -19,7 +19,7 @@ Tech Stack: The tech stacks and work flow is mentioned below:
 **jupiter Notebook** to run (or) create interactive notebook documents that can contain live code,
                         equations, visualizations, media and other computational outputs. 
 **Open AI:** An AI-based chat service powered by Open AI's language model.
-    - **Steps for creating Open AI Account:**
+**Steps for creating Open AI Account:**
         
         Here are the general steps you can follow to create an “OpenAI” account:
         
