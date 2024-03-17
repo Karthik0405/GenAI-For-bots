@@ -7,7 +7,7 @@ sdk: gradio
 sdk_version: 4.21.0
 app_file: app.py
 pinned: false
-
+**Please make sure that you have to create the OPEN AI key to execute the Progarm**
 1)  Title:
       GEN AI Chatbot for blinds
    
