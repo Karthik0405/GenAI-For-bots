@@ -42,7 +42,7 @@ pinned: false
 <img width="1710" alt="Screenshot 2024-03-16 at 11 13 30 PM" src="https://github.com/Karthik0405/GenAI-For-bots/assets/110735733/bfb06082-bfcb-4b3e-bcfc-6fc0d85966e9">
 9)Related Links:
         To check bot please go to the links given below:
-                1) https://huggingface.co/spaces/Karthik0406143/genAI
+                1) https://huggingface.co/spaces/Karthik0406143/ais
                 2)https://geaichat.ccbp.tech
 10) Steps to Execute project:
         
