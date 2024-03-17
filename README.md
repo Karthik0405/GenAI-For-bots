@@ -29,7 +29,9 @@ pinned: false
 
 6)  Challenges :
         The main challenges faced while developing the model is to clone the API keys to the Hugging face secrets and process of the output from text to speech and authentication of data.
-7) Demo of our Project:
+        **The main challenge faced by us is some times the main API keys are automatically deleted by OPEN AI due to Some Resons so We need to create new OPEN AI security KEY**
+    
+8) Demo of our Project:
    Youtube Link : https://youtu.be/O_upq1RyGc8
    
 9)  Screenshot of output:
